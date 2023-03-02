@@ -2523,7 +2523,8 @@ input, select, textarea {
 	#banner {
 		background-attachment:  fixed;
 		background-color: #645862;
-		background-image:  url("../../images/bg.png");
+		/*background-image:  url("../../images/bg.png");*/
+		background-color: #19203a;
 		background-position: top center;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -2619,7 +2620,8 @@ input, select, textarea {
 	#cta {
 		background-attachment: fixed;
 		background-color: #645862;
-		background-image: url("../../images/bg.png");
+		/*background-image: url("../../images/bg.png");*/
+		background-color: #19203a;
 		background-position: bottom center;
 		background-repeat: no-repeat;
 		background-size: cover;
